@@ -1,0 +1,11 @@
+{
+  "name": "doggy",
+  "version": "1.0.0",
+  "description": "exercise about async and promise",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "amy",
+  "license": "ISC"
+}

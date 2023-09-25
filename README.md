@@ -21,7 +21,14 @@ This is a little demonstration of async/await and promises in Node JS
 
   ![](./README-screenshots/callback-hell-triangle.png)
 
+- Promise chain consists of a .get() .then() and .catch(). To promise-ify a process use Promise() which gives a failure message or success value. Once the promise is resolved the success value can be used at some future point. This is why this is asynchronous.
+
+  ![](./README-screenshots/promise-ifying.png)
+
 ## Useful Links
 
 [Dog CEO API](https://dog.ceo/dog-api/documentation/breed) - fun API used to generate dog images and breed names
-[Super Agent ](https://www.npmjs.com/package/superagent) -
+
+[Super Agent ](https://www.npmjs.com/package/superagent) - module for handling Promises/Callback functions
+
+[Promise()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)

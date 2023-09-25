@@ -25,6 +25,10 @@ This is a little demonstration of async/await and promises in Node JS
 
   ![](./README-screenshots/promise-ifying.png)
 
+  The previous callback functions can all be turn into a promise chain. With a return of a promise value an .then() can be added with the next step and next promise.
+
+  ![](./README-screenshots/promise-chain.png)
+
 ## Useful Links
 
 [Dog CEO API](https://dog.ceo/dog-api/documentation/breed) - fun API used to generate dog images and breed names

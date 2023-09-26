@@ -35,4 +35,4 @@ This is a little demonstration of async/await and promises in Node JS
 
 [Super Agent ](https://www.npmjs.com/package/superagent) - module for handling Promises/Callback functions
 
-[Promise()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+[Promise()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) - Mozilla documentation
